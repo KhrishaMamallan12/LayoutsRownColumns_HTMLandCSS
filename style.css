@@ -1,0 +1,127 @@
+.box-container {
+    display: flex; /* Displays the boxes in a row */
+  }
+  
+  .box {
+    width: 165px; /* Adjust the width to your preference */
+    height: 165px; /* Adjust the height to your preference */
+    border: 5px solid #f31b1b; 
+    padding: 20px;/* Adds a border to the boxes */
+    margin-right: 40px;
+    background-color: rgb(17, 250, 122); /* Adds some spacing between the boxes */
+  }
+  
+  .box p {
+    text-align: center; /* Centers the text horizontally */
+    margin: 15px; /* Removes any default margins for the paragraphs */
+    padding: 5px; 
+  }
+  h3{
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+
+
+  .box-container1 {
+    display: flex; /* Displays the boxes in a row */
+  }
+  
+  .box1 {
+    width: 300px; /* Adjust the width to your preference */
+    height: 150px; /* Adjust the height to your preference */
+    border: 1px solid #000; /* Adds a border to the boxes */
+    margin-right: 10px;
+    padding: 25px; /* Adds some spacing between the boxes */
+  }
+  
+  .box1 .content {
+    display: flex; /* Displays the content in a row */
+    align-items: center; /* Vertically centers the content */
+    padding: 10px; /* Adds padding to the content */
+  }
+  
+  .box1 p {
+    margin: 0 10px 0 0; /* Adds some spacing between the text and the image */
+  }
+  
+  .box1 img {
+    max-width: 35%;
+     /* Ensures the image does not exceed the box width */
+    height: 35%; /* Maintains the image's aspect ratio */
+  }
+
+  .box-container2
+  {
+    display:flex;
+  }
+  .box2{
+    width: 300px; 
+    height: 150px; 
+    border: 1px solid #000; 
+    margin-right: 10px;
+    padding: 25px; 
+  }
+  .box2 .content2 
+  {
+    display: flex;
+    align-items: center; 
+    padding: 10px; 
+  }
+  .box2 p{
+    margin: 0 10px 0 0; 
+  }
+  .box2 img{
+    max-width: 35%;
+    height: 35%; 
+  }
+  .row
+{
+    display: flex;
+}
+.container
+{
+    width: 1200px;
+    margin: auto;
+}
+.box5
+{
+    width:45%;
+    margin: auto;
+}
+.box5 .box5_1
+{
+    width: 50%;
+    margin: auto;
+}
+.box5_1 img{
+    width: 80%;
+}
+.b1
+{
+    width: 40%;
+    margin: auto;
+}
+.b1 img{
+    width:100%;
+    margin: auto;
+}
+.b4
+{
+    width:55%;
+    margin: auto;
+}
+.b4 img{
+    width: 68%;
+}
+
+
+
+
+
+  
+
+  
+  
+  
